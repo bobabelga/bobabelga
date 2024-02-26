@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Belgacem Abibakr</h1>
-<h3 align="center">I use Boba Belga as my nickname across social media. I’m an Android developer from Algeria.<br>
+<h3 align="left">I use Boba Belga as my nickname across social media. I’m an Android developer from Algeria.<br>
 I have a background in graphic design & digital illustration & front-end web development. I’m also passionate about sports and always curious about new technologies and creative coding</h3>
 
 <h3 align="left">Connect with me:</h3>
