@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://bobabelga.com/](https://bobabelga.com)
 
-- 📝 I regularly write articles on [https://bobabelga.com](https://bobabelga.com)
-
 - 📫 How to reach me **belgacemabibakr@gmail.com**
 
 - 📄 Know about my experiences [https://bobabelga.com/resume.pdf](https://bobabelga.com/resume.pdf)
