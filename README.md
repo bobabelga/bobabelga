@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Kotlin Multiplatform﻿ & Flutter**
 
-- 👨‍💻 All of my projects are available at [https://bobabelga.com/works/](https://bobabelga.com/works/)
+- 👨‍💻 All of my projects are available at [https://bobabelga.com/](https://bobabelga.com)
 
-- 📝 I regularly write articles on [https://bobabelga.com/blog/](https://bobabelga.com/blog/)
+- 📝 I regularly write articles on [https://bobabelga.com](https://bobabelga.com)
 
 - 📫 How to reach me **belgacemabibakr@gmail.com**
 
