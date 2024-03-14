@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Belgacem Abibakr</h1>
 <h3 align="center">Android Developer | Kotlin | Jetpack Compose | Java</h3>
 
-- 🌱 I’m currently learning **Kotlin Multiplatform﻿**
-
 - 👨‍💻 All of my projects are available at [https://bobabelga.com/](https://bobabelga.com)
 
 - 📫 How to reach me **belgacemabibakr@gmail.com**
